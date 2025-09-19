@@ -4,7 +4,7 @@
     </h1>
     <div>
         <a href='https://github.com/Linfeng-Tang' target='_blank'>Linfeng Tang<sup>1*</sup></a>,&emsp;
-        <a href='#' target='_blank'>Yeda Wang<sup>1*</sup></a>,&emsp;
+        <a href='https://github.com/LfWhat' target='_blank'>Yeda Wang<sup>1*</sup></a>,&emsp;
         <a href='#' target='_blank'>Zhanchuan Cai<sup>2</sup></a>,&emsp;
         <a href='#' target='_blank'>Junjun Jiang<sup>3</sup></a>,&emsp;
         <a href='https://sites.google.com/site/jiayima2013' target='_blank'>Jiayi Ma<sup>1&#8224</sup></a>
