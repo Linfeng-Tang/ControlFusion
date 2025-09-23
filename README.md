@@ -26,6 +26,9 @@
     </div>
 </div>
 
+## 🔎 Method Overview
+![ControlFusion](assets/introduction.jpg)
+![ControlFusion](assets/framework.jpg)
 
 ## 🔧 Environment Setup
 1.  **Clone this repository:**
