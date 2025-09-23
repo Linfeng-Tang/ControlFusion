@@ -29,6 +29,7 @@
 ## 🔎 Method Overview
 ![ControlFusion](assets/introduction.jpg)
 ![ControlFusion](assets/framework.jpg)
+![ControlFusion](assets/frequency.jpg)
 
 ## 🔧 Environment Setup
 1.  **Clone this repository:**
@@ -60,3 +61,30 @@ You can use the `test.py` script we provide to fuse pairs of images. Please make
 ## 🚂 Train
 
 You can use the `train.py` script we provide to train. Make sure you have organized your train dataset correctly.
+
+## 📷 Results
+![ControlFusion](assets/highlight.jpg)
+
+![ControlFusion](assets/realworld.jpg)
+
+
+## 🕵️‍♂️ Detection
+![ControlFusion](assets/Detection.jpg)
+
+
+## 🎓 Citations
+If our work is useful for your research, please consider citing and give us a star ⭐:
+```
+@inproceedings{Tang2024Mask-DiFuser,
+  author={Linfeng Tang, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma},
+  title={ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts}, 
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2025},
+ }
+```
+
+
+## 🤝 Contact
+Please feel free to contact: `linfeng0419@gmail.com, licy0089@gmail.com`. 
+We are very pleased to communicate with you and will maintain this repository during our free time.
+
