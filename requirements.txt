@@ -1,0 +1,12 @@
+clip==1.0
+clip_anytorch==2.6.0
+einops==0.8.1
+matplotlib==3.10.6
+numpy==2.3.3
+openai_clip==1.0.1
+opencv_python==4.10.0.84
+opencv_python_headless==4.11.0.86
+Pillow==11.3.0
+torch==2.4.1+cu121
+torchvision==0.19.1+cu121
+tqdm==4.65.2
