@@ -28,8 +28,13 @@
 
 
 ## 🔎 Method Overview
+###  Motivation
 ![ControlFusion](assets/introduction.jpg)
+
+###  Framework
 ![ControlFusion](assets/framework.jpg)
+
+###  Frequency Domain Comparison
 ![ControlFusion](assets/frequency.jpg)
 
 ## 🔧 Environment Setup
