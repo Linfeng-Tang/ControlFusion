@@ -48,11 +48,8 @@
     please refer to genDateset
 
 ## 📥 Pre-trained Weights
-    ```bash
-    mkdir pretrained_weights
-    cd pretrained_weights
-    ```
     Download from: https://pan.baidu.com/s/1zIvBFFxLxtID732uU_xPyw?pwd=j9h7
+    put them under pretrained_weights
 ## 🧪 Inference
 
 You can use the `test.py` script we provide to fuse pairs of images. Please make sure you have downloaded the pre-trained weights
