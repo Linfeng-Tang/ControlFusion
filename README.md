@@ -46,3 +46,17 @@
     ```
 ## 📂 Dataset Construction
     please refer to genDateset
+
+## 📥 Pre-trained Weights
+    ```bash
+    mkdir pretrained_weights
+    cd pretrained_weights
+    ```
+    Download from: https://pan.baidu.com/s/1zIvBFFxLxtID732uU_xPyw?pwd=j9h7
+## 🧪 Inference
+
+You can use the `test.py` script we provide to fuse pairs of images. Please make sure you have downloaded the pre-trained weights
+
+## 🚂 Train
+
+You can use the `train.py` script we provide to train. Make sure you have organized your train dataset correctly.
