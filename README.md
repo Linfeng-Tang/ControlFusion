@@ -85,6 +85,6 @@ If our work is useful for your research, please consider citing and give us a st
 
 
 ## 🤝 Contact
-Please feel free to contact: `linfeng0419@gmail.com, licy0089@gmail.com`. 
+Please feel free to contact: `linfeng0419@gmail.com, wangyeda@whu.edu.cn`. 
 We are very pleased to communicate with you and will maintain this repository during our free time.
 
