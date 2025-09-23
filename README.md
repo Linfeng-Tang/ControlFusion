@@ -48,8 +48,8 @@
     please refer to genDateset,To simulate light degradation, use Lightroom Classic
     Our dataset will be open sourced soon.
 ## 📥 Pre-trained Weights
-    Download from: https://pan.baidu.com/s/1zIvBFFxLxtID732uU_xPyw?pwd=j9h7
-    put them under pretrained_weights
+#### Download the pretrained model Mask-DiFuser from [Baidu Drive](https://pan.baidu.com/s/1zIvBFFxLxtID732uU_xPyw?pwd=j9h7), and put the weight into `pretrained_weights/`.
+
 ## 🧪 Inference
 
 You can use the `test.py` script we provide to fuse pairs of images. Please make sure you have downloaded the pre-trained weights
