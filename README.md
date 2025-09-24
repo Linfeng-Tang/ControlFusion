@@ -69,8 +69,10 @@ You can use the `test.py` script we provide to fuse pairs of images. Please make
 You can use the `train.py` script we provide to train. Make sure you have organized your train dataset correctly.
 
 ## 📷 Results
+### Visualization of fusion results in different degraded scenarios
 ![ControlFusion](assets/highlight.jpg)
 
+### Generalization results in the real world
 ![ControlFusion](assets/realworld.jpg)
 
 
