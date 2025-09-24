@@ -1,6 +1,6 @@
 <div align="center" style="text-decoration: none !important;">
     <h1>
-      <a href="https://arxiv.org/pdf/2503.23356?" target="_blank" style="text-decoration: none !important;">ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts</a>
+      <a href="https://arxiv.org/pdf/2503.23356?" target="_blank" style="text-decoration: none !important;">ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts</a> [NeurIPS 2025]
     </h1>
     <div>
         <a href='https://github.com/Linfeng-Tang' target='_blank' style="text-decoration: none !important;">Linfeng Tang<sup>1*</sup></a>,&emsp;
