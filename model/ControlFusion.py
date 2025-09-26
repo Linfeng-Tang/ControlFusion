@@ -533,8 +533,8 @@ class ControlFusion(nn.Module):
         self.call_count += 1
 
         b = inp_img_A.shape[0]
-        text_features = self.get_text_feature(text.expand(b, -1)).to(inp_img_A.dtype)
-        # text_features = imgfeature
+        # text_features = self.get_text_feature(text.expand(b, -1)).to(inp_img_A.dtype)
+        text_features = imgfeature
         out_enc_level4_A, out_enc_level3_A, out_enc_level2_A, out_enc_level1_A = self.encoder_A(inp_img_A)
         out_enc_level4_B, out_enc_level3_B, out_enc_level2_B, out_enc_level1_B = self.encoder_B(inp_img_B)
 
@@ -601,5 +601,6 @@ class ControlFusion(nn.Module):
     def get_image_feature(self, image):
         image_feature = self.model_clip.encode_image(image)
         return image_feature
+
 
 
