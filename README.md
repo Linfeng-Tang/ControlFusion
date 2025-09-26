@@ -62,7 +62,12 @@
 
 ## 🧪 Inference
 
-You can use the `test.py` script we provide to fuse pairs of images. Please make sure you have downloaded the pre-trained weights
+You can use the `test.py` script we provide to fuse pairs of images. Please make sure you have downloaded the pre-trained weights.
+You can modify ControlFusion.py to select text/auto control by:
+```bash
+text_features = self.get_text_feature(text.expand(b, -1)).to(inp_img_A.dtype)
+text_features = imgfeature
+```
 
 ## 🚂 Train
 
