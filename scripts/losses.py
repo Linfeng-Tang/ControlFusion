@@ -19,7 +19,7 @@ class fusion_loss(nn.Module):
         loss_ssim = ssim_ratio * (ssim_vis_ratio * self.loss_func_ssim(image_visible, image_fused) + ssim_ir_ratio * self.loss_func_ssim(image_infrared_gray, image_fused_gray))
         loss_color = color_ratio * self.loss_func_color(image_visible, image_fused)
 
-        loss_text = 0
+        loss_text = text_ratio * self.loss_func_Grad(image_visible_gray, image_infrared_gray, image_fused_gray)
         total_loss = loss_max + loss_ssim + loss_color + loss_text
         return total_loss, loss_ssim, loss_max, loss_color, loss_text
 
@@ -269,3 +269,4 @@ class L_SSIM(torch.nn.Module):
             self.channel = channel
 
         return ssim(img1, img2, window=window, window_size=self.window_size, size_average=self.size_average)
+
