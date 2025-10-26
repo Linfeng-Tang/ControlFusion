@@ -55,7 +55,7 @@
     pip install -r requirements.txt
     ```
 ## 📂 Dataset Construction
-    please refer to genDateset,To simulate light degradation, use Lightroom Classic
+    please refer to genDateset
     Our dataset will be open sourced soon.
 ## 📥 Pre-trained Weights
 #### Download the pretrained model Mask-DiFuser from [Baidu Drive](https://pan.baidu.com/s/1zIvBFFxLxtID732uU_xPyw?pwd=j9h7), and put the weight into `pretrained_weights/`.
