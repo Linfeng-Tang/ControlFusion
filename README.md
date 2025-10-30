@@ -56,7 +56,7 @@
     ```
 ## 📂 Dataset Construction
     please refer to genDateset
-    Our dataset will be open sourced soon.
+    [Google Drive](https://drive.google.com/file/d/1SLfMDtWXpkngEi5eIAYuxEg6Y2UF6HBL/view?usp=drive_link)
 ## 📥 Pre-trained Weights
 #### Download the pretrained model Mask-DiFuser from [Baidu Drive](https://pan.baidu.com/s/1zIvBFFxLxtID732uU_xPyw?pwd=j9h7), and put the weight into `pretrained_weights/`.
 
