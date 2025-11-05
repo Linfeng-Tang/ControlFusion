@@ -89,7 +89,7 @@ You can use the `train.py` script we provide to train. Make sure you have organi
 ## 🎓 Citations
 If our work is useful for your research, please consider citing and give us a star ⭐:
 ```
-@inproceedings{Tang2024Mask-DiFuser,
+@inproceedings{Tang2025ControlFusion,
   author={Linfeng Tang, Yeda Wang, Zhanchuan Cai, Junjun Jiang, and Jiayi Ma},
   title={ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts}, 
   booktitle={Advances in Neural Information Processing Systems},
