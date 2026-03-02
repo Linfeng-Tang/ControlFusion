@@ -25,6 +25,7 @@
         </a>
     </div>
 </div>
+
 ## ✨ News:
 - [2026-02-21] Our paper **"VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion"** has been accepted by **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**!  [[Paper](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 
