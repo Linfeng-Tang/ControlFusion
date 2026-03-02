@@ -23,6 +23,9 @@
         <a href="https://arxiv.org/pdf/2503.23356?" target='_blank' style="text-decoration: none !important; border: none !important;">
             <img src="https://img.shields.io/badge/arXiv-2503.23356-b31b1b?style=for-the-badge&logo=arxiv" alt="Paper" style="border: none !important; box-shadow: none !important;">
         </a>
+        <a href="https://neurips.cc/virtual/2025/loc/san-diego/oral/117276" target='_blank' style="text-decoration: none !important; border: none !important;">
+            <img src="https://img.shields.io/badge/NeurIPS-2025-ff6f61?style=for-the-badge&logo=neurips" alt="NeurIPS" style="border: none !important; box-shadow: none !important;">
+        </a>
     </div>
 </div>
 
